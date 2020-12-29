@@ -1,0 +1,7 @@
+README.md
+setup.py
+chanakya.egg-info/PKG-INFO
+chanakya.egg-info/SOURCES.txt
+chanakya.egg-info/dependency_links.txt
+chanakya.egg-info/requires.txt
+chanakya.egg-info/top_level.txt
